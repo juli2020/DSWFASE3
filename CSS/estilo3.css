@@ -1,0 +1,44 @@
+body{
+    background-color:white;
+    color: black;
+}
+nav, header, .contenedor, footer{
+    max-width: 95%;
+    margin: auto;
+}
+header{
+    background-color: rgb(0,88, 131);
+    font-size: 80%;
+}
+nav{
+font-style:frankling;  
+}
+nav{
+    text-decoration-color: white;
+}
+.central{
+    background-color: whitesmoke;
+    display: inline-block;
+    max-width: 90%;
+    font-size: 75%;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium',
+}
+footer{
+    background-color: white;
+}
+}
+footer{
+    font-size: 70%;
+    color:rgb(0,88, 131) ;
+}
+}
+article{
+    display: inline-block;
+}
+p{
+    display: inline-block;
+}
+img{
+    font-size: 50%;
+}
